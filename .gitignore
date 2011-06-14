@@ -1,0 +1,14 @@
+.DS_Store
+._*
+cache
+tmp/
+.nbproject
+nbproject
+*.tmproj
+.htpasswd
+.project
+.settings
+sites/
+*.txt
+!robots.txt
+
