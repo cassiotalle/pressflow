@@ -8,7 +8,6 @@ nbproject
 .htpasswd
 .project
 .settings
-sites/
 *.txt
 !robots.txt
 
